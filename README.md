@@ -9,3 +9,5 @@ It is clear that social media has become an indispensable part of everyday life 
 ### Our Work
 
 This project presents the final high-fidelity interface prototype for our mobile social media aggregator app and discusses the justification of design decisions based on our initial research, design principles, analytical and empirical evaluations for the prototype. This was done in order to address usability problems with modern social media platforms and improve the experience for users of multiple social media platforms.
+
+### Technology used : Balsamiq to create Wireframes
